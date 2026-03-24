@@ -1,6 +1,6 @@
 [
   {
-    "title": "<span class='text-4xl md:text-7xl block mb-2 md:mb-4'>アースノード</span><span class='text-xl md:text-4xl'>地球を結ぶ、世界のノードへ。</span>",
+    "title": "<span class='text-3xl md:text-7xl block mb-2 md:mb-4'>アースノード</span><span class='text-xl md:text-4xl'>地球を結ぶ、世界のノードへ。</span>",
     "image": "img/slide/slide01.jpg",
     "color": "text-white text-center [text-shadow:_0_2px_10px_rgba(0,0,0,0.85)] font-extrabold tracking-tighter px-4" 
   },
