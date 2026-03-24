@@ -1,8 +1,8 @@
-baseURL = "https://example.com"
-title = "ASNode"
+baseURL = "https://www.asnode.jp"
+title = "ASNode アースノード株式会社"
 author = "ASNode"
-languageCode = "en"
-DefaultContentLanguage = "en"
+languageCode = "ja-jp"
+DefaultContentLanguage = "ja"
 enableInlineShortcodes = true
 theme = "tella"
 enableRobotsTXT = true
@@ -71,43 +71,43 @@ hasCJKLanguage = true
 
 [menu]
   [[menu.main]]
-    identifier = "products"
-    name = "Products"
+    identifier = "Products"
+    name = "商品情報"
     url = "/products/"
     weight = 1
 
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
+    identifier = "Blog"
+    name = "ブログ"
     url = "/blog/"
     weight = 2
 
   [[menu.main]]
-    identifier = "about"
-    name = "About"
+    identifier = "About"
+    name = "会社概要"
     url = "/about/"
     weight = 3
 
   [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
+    identifier = "Contact"
+    name = "お問い合わせ"
     url = "/contact/"
     weight = 4
 
   # Footer Menu
   [[menu.footer]]
-    name = "Home"
+    name = "ホーム"
     url = "/"
     weight = 1
 
   [[menu.footer]]
-    name = "Github"
+    name = "サポート"
     url = "https://github.com/opera7133/tella"
     #pre = "<i class='bi bi-github text-2xl'></i>"
     weight = 2
 
 [taxonomies]
-category = "categories"
+category = "カテゴリー"
 tag = "tags"
 series = "series"
 

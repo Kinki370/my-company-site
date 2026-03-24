@@ -1,11 +1,12 @@
 [
   {
-    "title": "Tella, A Hugo theme for Companies.",
-    "image": "img/slide/slide01.jpg"
+    "title": "<span class='text-6xl block mb-4'>アースノード</span>地球を結ぶ、世界のノードへ。",
+    "image": "img/slide/slide01.jpg",
+    "color": "text-white text-center [text-shadow:_0_2px_10px_rgba(0,0,0,85)] text-5xl font-extrabold tracking-tighter" 
   },
   {
-    "title": "Sample text here...",
+    "title": "As an Earth Node",
     "image": "img/slide/slide02.jpg",
-    "color": "text-black"
+    "color": "text-white [text-shadow:_0_2px_10px_rgba(0,0,0,0.8)] text-7xl font-black italic"
   }
 ]
