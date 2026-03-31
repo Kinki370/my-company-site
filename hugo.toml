@@ -25,7 +25,7 @@ hasCJKLanguage = true
   googleFonts = true
 
   [params.logo]
-    main = "img/logo/asnodelogo .png"
+    main = "img/logo/asnodelogo.png"
     alt = "ASNode Logo"
 
     # The size parameter is the class name of tailwindcss
