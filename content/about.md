@@ -1,24 +1,16 @@
 ---
-title: "About"
-description: "Hugo, the world's fastest framework for building websites"
-date: "2019-02-28"
-author: "Hugo Authors"
+title: "会社概要"
+description: "ASNode（アースノード）は、Amazonや楽天市場を通じて、世界中（Earth）の「高コスパ×厳選良品」を日本の暮らしへ届ける拠点（Node）です。日用雑貨から便利な小物まで、品質に妥協せず、お客様が納得できる価格でセレクト。地球と生活を結ぶ架け橋として、誠実なサービスを提供いたします。
+"
+date: "2025-12-28"
+author: "ASNode Co., Ltd."
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+ASNode アースノードは、Amazonや楽天市場などのECプラットフォームを通じ、世界中から厳選した価値ある小物を日本の消費者の皆様へお届けするセレクトショップです。<br><br>
+社名の「ASNode」には、アース（地球）上の優れたプロダクトを見つけ出し、お客様の生活のノード（結び目・拠点）として、確かな価値を繋いでいくという想いを込めています。<br><br>
+私たちの強みは、徹底したリサーチによる「高コストパフォーマンス」の追求です。単に安価なだけではなく、品質と価格のバランスを厳しく見極めた商品のみをラインナップ。日々の暮らしをより便利に、より豊かに彩るアイテムを、誠実なカスタマーサポートとともに提供いたします。<br><br>
+世界と日本の日常を結ぶ架け橋として、皆様に「選んで良かった」と感じていただける買い物体験を創造し続けます。<br><br><br>
 
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+本社所在地： 〒110-0015 東京都台東区東上野6-1-17中央ビル7F<br>
+電話番号： 050-xxxx-xxxx （電話番号申請中）<br>
+メールアドレス： info@asnode.jp （または support@asnode.jp）<br>

@@ -1,5 +1,5 @@
 baseURL = "https://www.asnode.jp"
-title = "ASNode アースノード株式会社"
+title = "ASNode Co., Ltd.  アースノード株式会社 "
 author = "ASNode"
 languageCode = "ja-jp"
 DefaultContentLanguage = "ja"
@@ -20,7 +20,7 @@ hasCJKLanguage = true
   #shortname = "your-disqus-shortname"
 
 [params]
-  showBlog = true
+  showBlog = false
   mainSections = ['blog']
   googleFonts = true
 
@@ -76,11 +76,11 @@ hasCJKLanguage = true
     url = "/products/"
     weight = 1
 
-  [[menu.main]]
-    identifier = "Blog"
-    name = "ブログ"
-    url = "/blog/"
-    weight = 2
+  #[[menu.main]]
+  #  identifier = "Blog"
+  #  name = "ブログ"
+  #  url = "/blog/"
+  #  weight = 2
 
   [[menu.main]]
     identifier = "About"
@@ -102,7 +102,7 @@ hasCJKLanguage = true
 
   [[menu.footer]]
     name = "サポート"
-    url = "https://github.com/opera7133/tella"
+    url = "https://www.asnode.jp"
     #pre = "<i class='bi bi-github text-2xl'></i>"
     weight = 2
 

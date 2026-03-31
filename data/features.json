@@ -1,18 +1,20 @@
 [
   {
-    "title": "Simple",
-    "description": "All the bare necessities are there.",
-    "icon": "bi bi-box"
+    "title": "Amazon Store",
+    "description": "(Coming Soon)<br>Amazonストアで安心してお買い物いただけます。",
+    "link": "https://www.asnode.jp",
+    "icon": "bi bi-amazon"
   },
   {
-    "title": "Fast",
-    "description": "Light weight and fast loading speed.",
-    "icon": "bi bi-lightning-charge"
+    "title": "Rakuten Store",
+    "description": "(Coming Soon)<br>楽天ポイントを貯めながらお得にご購入いただけます。",
+    "link": "https://www.asnode.jp",
+    "icon": "bi bi-shop"
   },
   {
-    "title": "Github",
-    "description": "Please fork the Github repository and contribute to this theme!",
-    "link": "https://github.com/opera7133/tella",
-    "icon": "bi bi-github"
+    "title": "Direct Shop",
+    "description": "(Coming Soon)<br>準備中です。最新情報をお待ちください。",
+    "link": "https://www.asnode.jp",
+    "icon": "bi bi-cart-fill"
   }
 ]
