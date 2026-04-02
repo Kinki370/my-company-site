@@ -1,7 +1,8 @@
 ---
-title: 'Contact'
+title: 'Contact（準備中）'
 ---
 
-To contact us, please fill out the form below.
+現在、お問い合わせフォームの開設準備を行っております。
+恐れ入りますが、準備が整うまで今しばらくお待ちください。
 
 {{< form >}}
